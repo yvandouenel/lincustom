@@ -1,0 +1,11 @@
+# Schema for the configuration files of the Linkit module.
+
+
+
+# Plugin \Drupal\linkcustom\Plugin\Linkit\Matcher\CustomNodeMatcher
+linkcustom.matcher.linkcustom:
+  type: linkcustom.matcher.entity
+  mapping:
+    include_unpublished:
+      type: boolean
+

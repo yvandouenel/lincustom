@@ -1,0 +1,6 @@
+linkcustom.base:
+  version: VERSION
+  js:
+    js/linkcustom.js: {}
+  dependencies:
+    - linkit/linkit.autocomplete

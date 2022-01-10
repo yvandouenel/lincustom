@@ -1,0 +1,5 @@
+name: Linkcustom
+type: module
+description: 'Provides an way to add a link with custom field label'
+package: User interface
+core_version_requirement: ^8.8 || ^9
